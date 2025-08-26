@@ -20,7 +20,7 @@ A Log message (visible in Logcat in Android Studio with tag "ActivityLifeCycle")
 
 ## onCreate
 
-<img src="create.png">
+<img src="./create.png">
 
 ## onStart
 <img src="start.png">

@@ -15,3 +15,16 @@ What happens when you run it: <br>
 Each time a lifecycle method is called, you’ll see: <br>
 A Toast message (on-screen popup). <br>
 A Log message (visible in Logcat in Android Studio with tag "ActivityLifeCycle"). <br>
+
+# Preview:
+
+## onCreate
+
+<img src="create.png">
+
+## onStart
+<img src="start.png">
+
+## onRestart
+
+<img src="restart.png">
